@@ -1,0 +1,33 @@
+.containers{
+    height:700px;
+    display: flex;
+    
+    background-color: tomato;
+}
+.left-side{
+    background-color: #19103F;
+    width:400px;
+    height:100%
+}
+.left-side h1{
+    color: white;
+    text-align: center;
+    margin-top: 20px;font-weight: 400;
+    font-family: 'Yatra One', cursive;
+}
+.right-side{
+    width:100%; 
+}
+
+p{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Yatra One', cursive;
+}
+.btn-style{
+    color: white !important;
+    width: 250px;
+    margin-left: 20px;
+    display: grid;
+}

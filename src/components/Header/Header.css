@@ -1,0 +1,38 @@
+.header{
+    background-color: #20232A;
+    height: 70px;
+    display:flex;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.header-left{
+    margin-left: 5%;
+}
+.header-left h1{
+    font-family: 'Yatra One', cursive;
+    font-size:40px
+}
+.header-right{
+    margin-right: 5%;
+    display: flex;
+    align-items: center;
+    justify-self: space-between;
+}
+.header-right p{
+    margin-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 20px;
+    color: #fff;
+}
+.header-right p:hover{
+    background-color: #2a3657;
+    cursor: pointer;
+}
+.avatar{
+    height: 27px;
+    border-radius: 50%;
+    margin-right: 18px;
+}

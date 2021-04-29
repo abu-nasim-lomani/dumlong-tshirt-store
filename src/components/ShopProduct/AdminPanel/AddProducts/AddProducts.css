@@ -1,0 +1,15 @@
+.add-product{
+    display: grid;
+    justify-content:center;
+    margin-top:50px;
+}
+.add-product h1{
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    font-family: 'Yatra One', cursive;
+}
+label{
+    
+    font-family: 'Yatra One', cursive;
+    color: aliceblue;
+}

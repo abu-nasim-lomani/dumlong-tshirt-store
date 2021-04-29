@@ -1,0 +1,17 @@
+.checkout{
+    margin-top: 50px;
+}
+.table{
+    margin-top:30px
+}
+#col-width{
+    width:60% !important;
+}
+.address-detail{
+    width:500px;
+    display:grid;
+    margin: auto;
+}
+.checkbtn{
+    width:200px;
+}
