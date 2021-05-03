@@ -1,4 +1,4 @@
-# DumLong Online T-Store
+## DumLong Online T-Store
 .
 # Live_Site: https://dumlong-t-shirt-store.web.app/
 ## Project Feature:
@@ -9,7 +9,6 @@ products and their details. \
 4.Users can purchase their desired products and pay online using credit card.\
 
 
-# Techology: React, Router, Node.js, Express.js, MongoDB, Firebase Authentication &
-Hosting, Heroku, Bootstrap
+# Techology: React, Router, Node.js, Express.js, MongoDB, Firebase Authentication & Hosting, Heroku, Bootstrap
 
 ![dumlong - Copy](https://user-images.githubusercontent.com/68380516/116890481-7c231580-ac4f-11eb-8647-6fd08897d25a.jpg)
